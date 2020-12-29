@@ -1,2 +1,2 @@
 flask
-RUN conda install -yc conda-forge opencv
+opencv-python
