@@ -1,2 +1,2 @@
 flask
-opencv-python
+pip install opencv-python==3.6.6
